@@ -1,0 +1,112 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "cover_img": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
+    "author_name": "John Doe",
+    "author_img": "https://i.pravatar.cc/150?img=1",
+    "blog_title": "Getting Started with React",
+    "read_time": "5 min",
+    "published_date": "2023-10-15",
+    "hashtag": ["beginners", "react", "webdev"],
+    "blog_content": "React is a powerful JavaScript library for building user interfaces. In this guide, we'll cover the basics..."
+  },
+  {
+    "id": "b2c3d4e5-f6g7-5b8c-9d0e-1f2a3b4c5d6e",
+    "cover_img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "author_name": "Jane Smith",
+    "author_img": "https://i.pravatar.cc/150?img=2",
+    "blog_title": "Python for Data Science",
+    "read_time": "8 min",
+    "published_date": "2023-09-22",
+    "hashtag": ["python", "datascience", "beginners"],
+    "blog_content": "Python is widely used in data science due to its simplicity and powerful libraries like Pandas and NumPy..."
+  },
+  {
+    "id": "c3d4e5f6-g7h8-6c9d-0e1f-2a3b4c5d6e7f",
+    "cover_img": "https://images.unsplash.com/photo-1547658719-da2b51169166",
+    "author_name": "Alex Johnson",
+    "author_img": "https://i.pravatar.cc/150?img=3",
+    "blog_title": "CSS Grid Layout Explained",
+    "read_time": "6 min",
+    "published_date": "2023-11-05",
+    "hashtag": ["css", "webdesign", "frontend"],
+    "blog_content": "CSS Grid allows you to create complex layouts with ease. Let's explore how it works with practical examples..."
+  },
+  {
+    "id": "d4e5f6g7-h8i9-7d0e-1f2a-3b4c5d6e7f8g",
+    "cover_img": "https://images.unsplash.com/photo-1627398242454-45a1465c2479",
+    "author_name": "Emily Davis",
+    "author_img": "https://i.pravatar.cc/150?img=4",
+    "blog_title": "Introduction to Machine Learning",
+    "read_time": "10 min",
+    "published_date": "2023-08-30",
+    "hashtag": ["machinelearning", "ai", "education"],
+    "blog_content": "Machine learning is transforming industries. This post covers the fundamentals and key algorithms..."
+  },
+  {
+    "id": "e5f6g7h8-i9j0-8e1f-2a3b-4c5d6e7f8g9h",
+    "cover_img": "https://images.unsplash.com/photo-1579403124614-197f69d8187b",
+    "author_name": "Michael Brown",
+    "author_img": "https://i.pravatar.cc/150?img=5",
+    "blog_title": "Node.js Backend Development",
+    "read_time": "7 min",
+    "published_date": "2023-10-28",
+    "hashtag": ["nodejs", "backend", "javascript"],
+    "blog_content": "Learn how to build scalable backend services using Node.js and Express with this step-by-step guide..."
+  },
+  {
+    "id": "f6g7h8i9-j0k1-9f2a-3b4c-5d6e7f8g9h0i",
+    "cover_img": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+    "author_name": "Sarah Wilson",
+    "author_img": "https://i.pravatar.cc/150?img=6",
+    "blog_title": "Responsive Web Design Tips",
+    "read_time": "4 min",
+    "published_date": "2023-09-14",
+    "hashtag": ["webdesign", "css", "responsive"],
+    "blog_content": "Make your websites look great on all devices with these responsive design best practices..."
+  },
+  {
+    "id": "g7h8i9j0-k1l2-0g3h-4i5j-6k7l8m9n0o1p",
+    "cover_img": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a",
+    "author_name": "David Lee",
+    "author_img": "https://i.pravatar.cc/150?img=7",
+    "blog_title": "Docker for Beginners",
+    "read_time": "9 min",
+    "published_date": "2023-11-12",
+    "hashtag": ["docker", "devops", "beginners"],
+    "blog_content": "Docker simplifies application deployment. Here's how to get started with containers and images..."
+  },
+  {
+    "id": "h8i9j0k1-l2m3-1h4i-5j6k-7l8m9n0o1p2q",
+    "cover_img": "https://images.unsplash.com/photo-1581094794329-c8112a89af12",
+    "author_name": "Anna Taylor",
+    "author_img": "https://i.pravatar.cc/150?img=8",
+    "blog_title": "JavaScript ES6 Features",
+    "read_time": "6 min",
+    "published_date": "2023-10-05",
+    "hashtag": ["javascript", "es6", "webdev"],
+    "blog_content": "Modern JavaScript introduces powerful features like arrow functions, destructuring, and more..."
+  },
+  {
+    "id": "i9j0k1l2-m3n4-2i5j-6k7l-8m9n0o1p2q3r",
+    "cover_img": "https://images.unsplash.com/photo-1563986768609-322da13575f3",
+    "author_name": "Robert Green",
+    "author_img": "https://i.pravatar.cc/150?img=9",
+    "blog_title": "Building REST APIs with Flask",
+    "read_time": "8 min",
+    "published_date": "2023-09-18",
+    "hashtag": ["python", "flask", "api"],
+    "blog_content": "Flask is a lightweight framework for Python. Learn how to create a RESTful API in just a few steps..."
+  },
+  {
+    "id": "j0k1l2m3-n4o5-3j6k-7l8m-9n0o1p2q3r4s",
+    "cover_img": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+    "author_name": "Lisa White",
+    "author_img": "https://i.pravatar.cc/150?img=10",
+    "blog_title": "Git Best Practices",
+    "read_time": "5 min",
+    "published_date": "2023-11-20",
+    "hashtag": ["git", "versioncontrol", "productivity"],
+    "blog_content": "Effective Git usage can improve your workflow. Here are essential tips for branching, commits, and collaboration..."
+  }
+]
