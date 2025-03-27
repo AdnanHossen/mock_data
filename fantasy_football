@@ -10,7 +10,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/389.png",
     "market_price": "€25 million",
     "age": 23,
-    "description": "Tall and commanding goalkeeper with exceptional reflexes."
+    "description": "Tall and commanding goalkeeper with exceptional reflexes.",
+    "strong_foot": "Right"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/484.png",
     "market_price": "€40 million",
     "age": 23,
-    "description": "Versatile attacker with explosive dribbling and creativity."
+    "description": "Versatile attacker with explosive dribbling and creativity.",
+    "strong_foot": "Left"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/429.png",
     "market_price": "€45 million",
     "age": 20,
-    "description": "Composed center-back with elite ball-playing ability."
+    "description": "Composed center-back with elite ball-playing ability.",
+    "strong_foot": "Right"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/384.png",
     "market_price": "€30 million",
     "age": 18,
-    "description": "Wonderkid playmaker dubbed the 'Turkish Messi'."
+    "description": "Wonderkid playmaker dubbed the 'Turkish Messi'.",
+    "strong_foot": "Left"
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/363.png",
     "market_price": "€35 million",
     "age": 22,
-    "description": "Clinical finisher with poacher's instincts."
+    "description": "Clinical finisher with poacher's instincts.",
+    "strong_foot": "Right"
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/641.png",
     "market_price": "€22 million",
     "age": 20,
-    "description": "Attacking full-back with relentless energy."
+    "description": "Attacking full-back with relentless energy.",
+    "strong_foot": "Left"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/390.png",
     "market_price": "€18 million",
     "age": 20,
-    "description": "Tenacious defensive midfielder with high work rate."
+    "description": "Tenacious defensive midfielder with high work rate.",
+    "strong_foot": "Right"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/413.png",
     "market_price": "€25 million",
     "age": 20,
-    "description": "Dribbling wizard with electrifying pace."
+    "description": "Dribbling wizard with electrifying pace.",
+    "strong_foot": "Left"
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/429.png",
     "market_price": "€20 million",
     "age": 22,
-    "description": "Shot-stopper with commanding presence in the box."
+    "description": "Shot-stopper with commanding presence in the box.",
+    "strong_foot": "Right"
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_10/10895.png",
     "market_price": "€30 million",
     "age": 20,
-    "description": "Tall striker with aerial dominance and technical flair."
+    "description": "Tall striker with aerial dominance and technical flair.",
+    "strong_foot": "Right"
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/576.png",
     "market_price": "€35 million",
     "age": 23,
-    "description": "Versatile forward with intelligent movement."
+    "description": "Versatile forward with intelligent movement.",
+    "strong_foot": "Right"
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
     "club_image": "https://www.footballdatabase.eu/images/photos/clubs/a_0/362.png",
     "market_price": "€15 million",
     "age": 19,
-    "description": "Box-to-box midfielder with mature decision-making."
+    "description": "Box-to-box midfielder with mature decision-making.",
+    "strong_foot": "Right"
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
     "club_image": "https://tmssl.akamaized.net//images/wappen/homepageWappen150x150/681.png?lm=1614795530",
     "market_price": "€50 million",
     "age": 22,
-    "description": "Left-footed magician with close control."
+    "description": "Left-footed magician with close control.",
+    "strong_foot": "Left"
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
     "club_image": "https://tmssl.akamaized.net//images/wappen/head/336.png?lm=1621513752",
     "market_price": "€40 million",
     "age": 20,
-    "description": "Physically dominant defender with rapid recovery pace."
+    "description": "Physically dominant defender with rapid recovery pace.",
+    "strong_foot": "Right"
   },
   {
     "id": 15,
@@ -192,6 +206,7 @@
     "club_image": "https://tmssl.akamaized.net//images/wappen/homepageWappen150x150/23826.png?lm=1619431624",
     "market_price": "€12 million",
     "age": 21,
-    "description": "Sweeper-keeper with excellent distribution."
+    "description": "Sweeper-keeper with excellent distribution.",
+    "strong_foot": "Right"
   }
 ]
