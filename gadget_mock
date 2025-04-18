@@ -3,7 +3,7 @@
     "product_id": "LT001",
     "product_title": "Dell XPS 13",
     "product_image": "https://www.dell.com/cdn/assets/shop/products/xps-13-9315/sp-xps-9315-laptop-xps9320-1100-bk-us-v1.jpg",
-    "category": "laptop",
+    "category": "Laptop",
     "price": 1299.99,
     "description": "13.4-inch laptop with 11th Gen Intel Core i7, 16GB RAM, and 512GB SSD. Sleek design with stunning 4K display.",
     "specifications": [
@@ -21,7 +21,7 @@
     "product_id": "LT002",
     "product_title": "HP Spectre x360",
     "product_image": "https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/spectre/Spectre-x360-14-ef2000-Front-Left-Nightfall-Black.png",
-    "category": "laptop",
+    "category": "Laptop",
     "price": 1499.00,
     "description": "Convertible laptop with 13.5-inch OLED display, Intel Core i7, 16GB RAM, and 1TB SSD.",
     "specifications": [
@@ -39,7 +39,7 @@
     "product_id": "LT003",
     "product_title": "Lenovo ThinkPad X1 Carbon",
     "product_image": "https://www.lenovo.com/content/dam/lenovo/pcsd/global/en/products/thinkpad/x1-series/x1-carbon-gen-10/hero/ThinkPad_X1_Carbon_Gen_10_Hero_Front_Facing.png",
-    "category": "laptop",
+    "category": "Laptop",
     "price": 1399.50,
     "description": "Business-class laptop with 14-inch display, Intel Core i5, 16GB RAM, and 512GB SSD.",
     "specifications": [
@@ -54,10 +54,46 @@
     "color": "Black"
   },
   {
+    "product_id": "LT004",
+    "product_title": "Asus ZenBook 14",
+    "product_image": "https://dlcdnwebimgs.asus.com/gain/7d8b9b7e-7f3f-4e2b-9b0b-9c7b1c2f3d5e/",
+    "category": "Laptop",
+    "price": 1099.99,
+    "description": "Ultralight laptop with 14-inch OLED display, AMD Ryzen 7, 16GB RAM, and 512GB SSD.",
+    "specifications": [
+      "Processor: AMD Ryzen 7 6800U",
+      "RAM: 16GB LPDDR5",
+      "Storage: 512GB SSD",
+      "Display: 14-inch 2.8K OLED",
+      "OS: Windows 11 Home"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "color": "Ponder Blue"
+  },
+  {
+    "product_id": "LT005",
+    "product_title": "Acer Swift 3",
+    "product_image": "https://static.acer.com/AcerCom/2022/Swift3_SF314-512/Silver/Swift3_SF314-512_Silver_01.png",
+    "category": "Laptop",
+    "price": 799.00,
+    "description": "Affordable laptop with 14-inch FHD display, Intel Core i5, 8GB RAM, and 256GB SSD.",
+    "specifications": [
+      "Processor: Intel Core i5-1235U",
+      "RAM: 8GB LPDDR4x",
+      "Storage: 256GB SSD",
+      "Display: 14-inch FHD",
+      "OS: Windows 11 Home"
+    ],
+    "availability": true,
+    "rating": 4.2,
+    "weight": "1.2kg"
+  },
+  {
     "product_id": "MB001",
     "product_title": "MacBook Air M2",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-config-20220606?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1654122882000",
-    "category": "macbook",
+    "category": "Macbook",
     "price": 1199.00,
     "description": "Lightweight MacBook with M2 chip, 13.6-inch Retina display, 8GB RAM, and 256GB SSD.",
     "specifications": [
@@ -75,7 +111,7 @@
     "product_id": "MB002",
     "product_title": "MacBook Pro 14 M1 Pro",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202110?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1632788571000",
-    "category": "macbook",
+    "category": "Macbook",
     "price": 1999.99,
     "description": "Powerful MacBook Pro with M1 Pro chip, 14.2-inch Liquid Retina XDR display, 16GB RAM, and 1TB SSD.",
     "specifications": [
@@ -93,7 +129,7 @@
     "product_id": "MB003",
     "product_title": "MacBook Pro 16 M2 Max",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1670463779929",
-    "category": "macbook",
+    "category": "Macbook",
     "price": 3499.00,
     "description": "High-performance MacBook with M2 Max chip, 16.2-inch Retina display, 32GB RAM, and 1TB SSD.",
     "specifications": [
@@ -111,7 +147,7 @@
     "product_id": "IP001",
     "product_title": "iPhone 14 Pro",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-2-202209_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663792793577",
-    "category": "iphone",
+    "category": "Iphone",
     "price": 999.00,
     "description": "Advanced iPhone with A16 Bionic chip, 6.1-inch Super Retina XDR display, and triple camera system.",
     "specifications": [
@@ -129,7 +165,7 @@
     "product_id": "IP002",
     "product_title": "iPhone 13",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1629842709000",
-    "category": "iphone",
+    "category": "Iphone",
     "price": 699.99,
     "description": "Reliable iPhone with A15 Bionic chip, 6.1-inch Super Retina XDR display, and dual camera system.",
     "specifications": [
@@ -147,7 +183,7 @@
     "product_id": "IP003",
     "product_title": "iPhone SE",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-midnight-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646411129379",
-    "category": "iphone",
+    "category": "Iphone",
     "price": 429.00,
     "description": "Compact iPhone with A15 Bionic chip, 4.7-inch Retina HD display, and single camera.",
     "specifications": [
@@ -165,7 +201,7 @@
     "product_id": "AC001",
     "product_title": "Apple AirPods Pro",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1660803972361",
-    "category": "accessories",
+    "category": "Accessories",
     "price": 249.00,
     "description": "Wireless earbuds with active noise cancellation, transparency mode, and MagSafe charging case.",
     "specifications": [
@@ -182,7 +218,7 @@
     "product_id": "AC002",
     "product_title": "USB-C to Lightning Cable",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MX0K2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1598475639000",
-    "category": "accessories",
+    "category": "Accessories",
     "price": 19.99,
     "description": "1-meter USB-C to Lightning cable for charging and syncing Apple devices.",
     "specifications": [
@@ -198,7 +234,7 @@
     "product_id": "AC003",
     "product_title": "MagSafe Charger",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MHXH3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1601494639000",
-    "category": "accessories",
+    "category": "Accessories",
     "price": 39.00,
     "description": "Wireless MagSafe charger for iPhone 12 and later models with magnetic alignment.",
     "specifications": [
@@ -211,10 +247,95 @@
     "color": "White"
   },
   {
+    "product_id": "AC004",
+    "product_title": "Anker PowerBank 10000",
+    "product_image": "https://www.anker.com/cdn-cgi/image/fit=scale-down,format=auto,quality=75,sharpen=1,metadata=none,width=720/https://d3e54emdgoy1fq.cloudfront.net/uploads/product_image/image/20357/A1246_black_01.png",
+    "category": "Accessories",
+    "price": 29.99,
+    "description": "Compact 10000mAh power bank with USB-C and USB-A ports for fast charging.",
+    "specifications": [
+      "Capacity: 10000mAh",
+      "Ports: 1 USB-C, 1 USB-A",
+      "Charging Speed: 18W Power Delivery",
+      "Compatibility: Smartphones, Tablets"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "color": "Black"
+  },
+  {
+    "product_id": "AC005",
+    "product_title": "Samsung 25W Wall Charger",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/au/ep-t2510xbegau/gallery/au-25w-travel-adapter-ep-t2510xbegau-532013793?$650_519_PNG$",
+    "category": "Accessories",
+    "price": 24.95,
+    "description": "Fast 25W USB-C wall charger for Samsung Galaxy devices and other USB-C devices.",
+    "specifications": [
+      "Power: 25W",
+      "Port: USB-C",
+      "Compatibility: Samsung Galaxy, USB-C devices",
+      "Cable: Not included"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "color": "Black"
+  },
+  {
+    "product_id": "AC006",
+    "product_title": "JBL Clip 4",
+    "product_image": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw8c9b6a7e/JBL_Clip_4_Black_001.png",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "Portable Bluetooth speaker with clip, 10 hours of playtime, and waterproof design.",
+    "specifications": [
+      "Battery: Up to 10 hours",
+      "Connectivity: Bluetooth 5.0",
+      "Waterproof: IPX7",
+      "Power: 5W"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "color": "Black"
+  },
+  {
+    "product_id": "AC007",
+    "product_title": "Apple Magic Mouse",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK2E3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1626468073000",
+    "category": "Accessories",
+    "price": 79.00,
+    "description": "Wireless, rechargeable mouse with multi-touch surface for Mac devices.",
+    "specifications": [
+      "Connectivity: Bluetooth",
+      "Battery: Rechargeable",
+      "Compatibility: Mac, iPad",
+      "Features: Multi-Touch"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "color": "White"
+  },
+  {
+    "product_id": "AC008",
+    "product_title": "Logitech MX Keys",
+    "product_image": "https://resource.logitech.com/w_1000,c_limit,q_auto,f_auto,dpr_1.0/content/dam/logitech/en/products/keyboards/mx-keys/hero/mx-keys-keyboard-black.png",
+    "category": "Accessories",
+    "price": 119.99,
+    "description": "Wireless keyboard with backlit keys and multi-device connectivity.",
+    "specifications": [
+      "Connectivity: Bluetooth, USB Receiver",
+      "Battery: Up to 10 days",
+      "Compatibility: Windows, macOS, Linux",
+      "Features: Backlit Keys"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "color": "Black"
+  },
+  {
     "product_id": "SW001",
     "product_title": "Apple Watch Series 8",
     "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MNP53?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1660716298249",
-    "category": "smartwatches",
+    "category": "Smartwatches",
     "price": 399.00,
     "description": "Advanced smartwatch with crash detection, temperature sensing, and 41mm Retina display.",
     "specifications": [
@@ -232,7 +353,7 @@
     "product_id": "SW002",
     "product_title": "Samsung Galaxy Watch 5",
     "product_image": "https://images.samsung.com/is/image/samsung/p6pim/au/2208/gallery/au-galaxy-watch5-r900-429142-sm-r900nzkaxsa-533285054?$650_519_PNG$",
-    "category": "smartwatches",
+    "category": "Smartwatches",
     "price": 349.99,
     "description": "Smartwatch with 40mm AMOLED display, body composition analysis, and long battery life.",
     "specifications": [
@@ -250,7 +371,7 @@
     "product_id": "SW003",
     "product_title": "Fitbit Versa 4",
     "product_image": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/versa-4/hero-static/black-3qrt.png",
-    "category": "smartwatches",
+    "category": "Smartwatches",
     "price": 229.95,
     "description": "Fitness-focused smartwatch with 40mm AMOLED display, GPS, and 6-day battery life.",
     "specifications": [
@@ -268,7 +389,7 @@
     "product_id": "PH001",
     "product_title": "Samsung Galaxy S23",
     "product_image": "https://images.samsung.com/is/image/samsung/p6pim/au/2302/gallery/au-galaxy-s23-s911-sm-s911bzebats-534773295?$650_519_PNG$",
-    "category": "phones",
+    "category": "Phones",
     "price": 849.00,
     "description": "Flagship phone with Snapdragon 8 Gen 2, 6.1-inch AMOLED display, and triple camera system.",
     "specifications": [
@@ -286,7 +407,7 @@
     "product_id": "PH002",
     "product_title": "Google Pixel 7",
     "product_image": "https://store.google.com/product/images/pixel_7_lemongrass_color?hl=en-US",
-    "category": "phones",
+    "category": "Phones",
     "price": 599.00,
     "description": "AI-powered phone with Tensor G2 chip, 6.3-inch OLED display, and dual camera system.",
     "specifications": [
@@ -304,7 +425,7 @@
     "product_id": "PH003",
     "product_title": "OnePlus 11",
     "product_image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus11/specs/Black_11.png",
-    "category": "phones",
+    "category": "Phones",
     "price": 699.99,
     "description": "High-performance phone with Snapdragon 8 Gen 2, 6.7-inch AMOLED, and 100W fast charging.",
     "specifications": [
@@ -317,5 +438,59 @@
     "availability": true,
     "rating": 4.7,
     "color": "Titan Black"
+  },
+  {
+    "product_id": "PH004",
+    "product_title": "Xiaomi 13 Pro",
+    "product_image": "https://i01.appmifile.com/v1/MI_18455B3E4DA70668/6F3A73F7F6A7A5B6/13pro_black.png",
+    "category": "Phones",
+    "price": 899.99,
+    "description": "Premium phone with Snapdragon 8 Gen 2, 6.73-inch AMOLED display, and Leica-tuned cameras.",
+    "specifications": [
+      "Processor: Snapdragon 8 Gen 2",
+      "Storage: 256GB",
+      "Display: 6.73-inch AMOLED",
+      "Camera: 50MP Main, 50MP Ultra Wide, 50MP Telephoto",
+      "OS: Android 13"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "color": "Ceramic Black"
+  },
+  {
+    "product_id": "PH005",
+    "product_title": "Sony Xperia 1 V",
+    "product_image": "https://www.sony.com/image/7b3f4e9c1f2f4e6b9f3e8b2c1f6e7a9d?fmt=png-alpha&wid=720",
+    "category": "Phones",
+    "price": 1399.00,
+    "description": "Professional-grade phone with 6.5-inch 4K OLED display and triple camera system.",
+    "specifications": [
+      "Processor: Snapdragon 8 Gen 2",
+      "Storage: 256GB",
+      "Display: 6.5-inch 4K OLED",
+      "Camera: 48MP Main, 12MP Ultra Wide, 12MP Telephoto",
+      "OS: Android 13"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "color": "Black"
+  },
+  {
+    "product_id": "PH006",
+    "product_title": "Motorola Edge 40",
+    "product_image": "https://motorolaus.vtexassets.com/arquivos/ids/156698/motorola-edge-40-nebula-green-front.png",
+    "category": "Phones",
+    "price": 599.99,
+    "description": "Mid-range phone with 6.55-inch OLED display, Dimensity 8020, and 50MP camera.",
+    "specifications": [
+      "Processor: MediaTek Dimensity 8020",
+      "Storage: 128GB",
+      "Display: 6.55-inch OLED",
+      "Camera: 50MP Main, 13MP Ultra Wide",
+      "OS: Android 13"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "color": "Nebula Green"
   }
 ]
