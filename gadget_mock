@@ -249,7 +249,7 @@
   {
     "product_id": "AC004",
     "product_title": "Anker PowerBank 10000",
-    "product_image": "https://www.anker.com/cdn-cgi/image/fit=scale-down,format=auto,quality=75,sharpen=1,metadata=none,width=720/https://d3e54emdgoy1fq.cloudfront.net/uploads/product_image/image/20357/A1246_black_01.png",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/power-bank/anker/10000mah-22-5w/10000mah-22-5w-01-500x500.webp",
     "category": "Accessories",
     "price": 29.99,
     "description": "Compact 10000mAh power bank with USB-C and USB-A ports for fast charging.",
@@ -266,7 +266,7 @@
   {
     "product_id": "AC005",
     "product_title": "Samsung 25W Wall Charger",
-    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/au/ep-t2510xbegau/gallery/au-25w-travel-adapter-ep-t2510xbegau-532013793?$650_519_PNG$",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/bd/ep-ta800nbegww/gallery/bd-wall-charger-for-super-fast-charging-25w-ep-ta800nbegww-467000631?$684_547_PNG$",
     "category": "Accessories",
     "price": 24.95,
     "description": "Fast 25W USB-C wall charger for Samsung Galaxy devices and other USB-C devices.",
@@ -283,7 +283,7 @@
   {
     "product_id": "AC006",
     "product_title": "JBL Clip 4",
-    "product_image": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw8c9b6a7e/JBL_Clip_4_Black_001.png",
+    "product_image": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6e532d12/JBL_CLIP4_HERO_STANDARD_BLUE_0741_x1.png?sw=535&sh=535",
     "category": "Accessories",
     "price": 59.99,
     "description": "Portable Bluetooth speaker with clip, 10 hours of playtime, and waterproof design.",
@@ -317,7 +317,7 @@
   {
     "product_id": "AC008",
     "product_title": "Logitech MX Keys",
-    "product_image": "https://resource.logitech.com/w_1000,c_limit,q_auto,f_auto,dpr_1.0/content/dam/logitech/en/products/keyboards/mx-keys/hero/mx-keys-keyboard-black.png",
+    "product_image": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-keys-s/migration-assets-for-delorean-2025/gallery/mx-keys-s-top-view-black-us.png",
     "category": "Accessories",
     "price": 119.99,
     "description": "Wireless keyboard with backlit keys and multi-device connectivity.",
@@ -334,7 +334,7 @@
   {
     "product_id": "SW001",
     "product_title": "Apple Watch Series 8",
-    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MNP53?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1660716298249",
+    "product_image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111848_apple-watch-series8.png",
     "category": "Smartwatches",
     "price": 399.00,
     "description": "Advanced smartwatch with crash detection, temperature sensing, and 41mm Retina display.",
@@ -352,7 +352,7 @@
   {
     "product_id": "SW002",
     "product_title": "Samsung Galaxy Watch 5",
-    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/au/2208/gallery/au-galaxy-watch5-r900-429142-sm-r900nzkaxsa-533285054?$650_519_PNG$",
+    "product_image": "https://images.samsung.com/bd/galaxy-watch5/feature/galaxy-watch5-kv.jpg",
     "category": "Smartwatches",
     "price": 349.99,
     "description": "Smartwatch with 40mm AMOLED display, body composition analysis, and long battery life.",
@@ -370,7 +370,7 @@
   {
     "product_id": "SW003",
     "product_title": "Fitbit Versa 4",
-    "product_image": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/versa-4/hero-static/black-3qrt.png",
+    "product_image": "https://lh3.googleusercontent.com/vN8Q3cTaRqB0c6pw3QjOt2MRS73PNmiPWKnemBv2YXUY4HhYSG85c7mYoWAxih9nz9L3kbVeMGM2xqJM9YM73O_Zi1h_RsSr8Xo=s6000-w6000-e365-rw-v0-nu",
     "category": "Smartwatches",
     "price": 229.95,
     "description": "Fitness-focused smartwatch with 40mm AMOLED display, GPS, and 6-day battery life.",
@@ -388,7 +388,7 @@
   {
     "product_id": "PH001",
     "product_title": "Samsung Galaxy S23",
-    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/au/2302/gallery/au-galaxy-s23-s911-sm-s911bzebats-534773295?$650_519_PNG$",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/bd/feature/164996846/bd-feature-online-exclusive-colors-just-for-you-539828190?$FB_TYPE_K_JPG$",
     "category": "Phones",
     "price": 849.00,
     "description": "Flagship phone with Snapdragon 8 Gen 2, 6.1-inch AMOLED display, and triple camera system.",
@@ -406,7 +406,7 @@
   {
     "product_id": "PH002",
     "product_title": "Google Pixel 7",
-    "product_image": "https://store.google.com/product/images/pixel_7_lemongrass_color?hl=en-US",
+    "product_image": "https://lh3.googleusercontent.com/QBiLZ5WXD5WtN_lnph7Fd59OmS8FKJV2uDTsVJgVVSwImpJwyHLXE2mmg0NbUp6Yify36EANR-hbFnqTa8pAsF2nJM1k_tu_orsf=rw-e365-w900",
     "category": "Phones",
     "price": 599.00,
     "description": "AI-powered phone with Tensor G2 chip, 6.3-inch OLED display, and dual camera system.",
@@ -424,7 +424,7 @@
   {
     "product_id": "PH003",
     "product_title": "OnePlus 11",
-    "product_image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus11/specs/Black_11.png",
+    "product_image": "https://www.oneplus.com/content/dam/oasis/product-asset-library/salami/en/images-kv-1.png.webp",
     "category": "Phones",
     "price": 699.99,
     "description": "High-performance phone with Snapdragon 8 Gen 2, 6.7-inch AMOLED, and 100W fast charging.",
@@ -442,7 +442,7 @@
   {
     "product_id": "PH004",
     "product_title": "Xiaomi 13 Pro",
-    "product_image": "https://i01.appmifile.com/v1/MI_18455B3E4DA70668/6F3A73F7F6A7A5B6/13pro_black.png",
+    "product_image": "https://i02.appmifile.com/mi-com-product/fly-birds/pc/xiaomi-13-pro/22841784832c9a8edd18bfa423386ecd.jpg?f=webp",
     "category": "Phones",
     "price": 899.99,
     "description": "Premium phone with Snapdragon 8 Gen 2, 6.73-inch AMOLED display, and Leica-tuned cameras.",
@@ -460,7 +460,7 @@
   {
     "product_id": "PH005",
     "product_title": "Sony Xperia 1 V",
-    "product_image": "https://www.sony.com/image/7b3f4e9c1f2f4e6b9f3e8b2c1f6e7a9d?fmt=png-alpha&wid=720",
+    "product_image": "https://www.mobiledokan.com/media/1713695911xoeSY.webp",
     "category": "Phones",
     "price": 1399.00,
     "description": "Professional-grade phone with 6.5-inch 4K OLED display and triple camera system.",
@@ -478,7 +478,7 @@
   {
     "product_id": "PH006",
     "product_title": "Motorola Edge 40",
-    "product_image": "https://motorolaus.vtexassets.com/arquivos/ids/156698/motorola-edge-40-nebula-green-front.png",
+    "product_image": "https://motorolaroe.vtexassets.com/arquivos/ids/157285-1200-auto",
     "category": "Phones",
     "price": 599.99,
     "description": "Mid-range phone with 6.55-inch OLED display, Dimensity 8020, and 50MP camera.",
