@@ -2,7 +2,7 @@
   {
     "product_id": "LT001",
     "product_title": "Dell XPS 13",
-    "product_image": "https://www.dell.com/cdn/assets/shop/products/xps-13-9315/sp-xps-9315-laptop-xps9320-1100-bk-us-v1.jpg",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/XPS-13-9315-7034.jpg",
     "category": "Laptop",
     "price": 1299.99,
     "description": "13.4-inch laptop with 11th Gen Intel Core i7, 16GB RAM, and 512GB SSD. Sleek design with stunning 4K display.",
@@ -20,7 +20,7 @@
   {
     "product_id": "LT002",
     "product_title": "HP Spectre x360",
-    "product_image": "https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/spectre/Spectre-x360-14-ef2000-Front-Left-Nightfall-Black.png",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/HP-Spectre-x360-Convertible-14-EF2013DX-a-1801.jpg",
     "category": "Laptop",
     "price": 1499.00,
     "description": "Convertible laptop with 13.5-inch OLED display, Intel Core i7, 16GB RAM, and 1TB SSD.",
@@ -38,7 +38,7 @@
   {
     "product_id": "LT003",
     "product_title": "Lenovo ThinkPad X1 Carbon",
-    "product_image": "https://www.lenovo.com/content/dam/lenovo/pcsd/global/en/products/thinkpad/x1-series/x1-carbon-gen-10/hero/ThinkPad_X1_Carbon_Gen_10_Hero_Front_Facing.png",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Lenovo-ThinkPad-X1-Carbon-Gen-10-1127.jpg",
     "category": "Laptop",
     "price": 1399.50,
     "description": "Business-class laptop with 14-inch display, Intel Core i5, 16GB RAM, and 512GB SSD.",
@@ -56,7 +56,7 @@
   {
     "product_id": "LT004",
     "product_title": "Asus ZenBook 14",
-    "product_image": "https://dlcdnwebimgs.asus.com/gain/7d8b9b7e-7f3f-4e2b-9b0b-9c7b1c2f3d5e/",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/ASUS-Zenbook-Q425MA-U71TB-a-4318.jpg",
     "category": "Laptop",
     "price": 1099.99,
     "description": "Ultralight laptop with 14-inch OLED display, AMD Ryzen 7, 16GB RAM, and 512GB SSD.",
@@ -74,7 +74,7 @@
   {
     "product_id": "LT005",
     "product_title": "Acer Swift 3",
-    "product_image": "https://static.acer.com/AcerCom/2022/Swift3_SF314-512/Silver/Swift3_SF314-512_Silver_01.png",
+    "product_image": "https://computermania.com.bd/wp-content/uploads/2025/01/Acer-Swift-3-SF314-Price-1.jpg",
     "category": "Laptop",
     "price": 799.00,
     "description": "Affordable laptop with 14-inch FHD display, Intel Core i5, 8GB RAM, and 256GB SSD.",
