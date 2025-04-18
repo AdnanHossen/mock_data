@@ -31,7 +31,7 @@
       "Display: 13.5-inch OLED 3K2K",
       "OS: Windows 11 Pro"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.7,
     "warranty": "2 years"
   },
@@ -103,7 +103,7 @@
       "Display: 13.6-inch Retina",
       "OS: macOS Ventura"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.8,
     "color": "Midnight"
   },
@@ -157,7 +157,7 @@
       "Camera: 48MP Main, 12MP Ultra Wide, 12MP Telephoto",
       "OS: iOS 16"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.7,
     "color": "Deep Purple"
   },
@@ -210,7 +210,7 @@
       "Charging: MagSafe, Wireless, USB-C",
       "Features: Active Noise Cancellation, Adaptive Transparency"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.8,
     "color": "White"
   },
@@ -259,7 +259,7 @@
       "Charging Speed: 18W Power Delivery",
       "Compatibility: Smartphones, Tablets"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.4,
     "color": "Black"
   },
@@ -293,7 +293,7 @@
       "Waterproof: IPX7",
       "Power: 5W"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.6,
     "color": "Black"
   },
@@ -327,7 +327,7 @@
       "Compatibility: Windows, macOS, Linux",
       "Features: Backlit Keys"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.7,
     "color": "Black"
   },
@@ -363,7 +363,7 @@
       "Battery: Up to 40 hours",
       "OS: Wear OS"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.4,
     "color": "Graphite"
   },
@@ -417,7 +417,7 @@
       "Camera: 50MP Main, 12MP Ultra Wide",
       "OS: Android 13"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.5,
     "color": "Lemongrass"
   },
@@ -471,7 +471,7 @@
       "Camera: 48MP Main, 12MP Ultra Wide, 12MP Telephoto",
       "OS: Android 13"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.6,
     "color": "Black"
   },
