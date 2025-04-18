@@ -1,0 +1,321 @@
+[
+  {
+    "product_id": "LT001",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://www.dell.com/cdn/assets/shop/products/xps-13-9315/sp-xps-9315-laptop-xps9320-1100-bk-us-v1.jpg",
+    "category": "laptop",
+    "price": 1299.99,
+    "description": "13.4-inch laptop with 11th Gen Intel Core i7, 16GB RAM, and 512GB SSD. Sleek design with stunning 4K display.",
+    "specifications": [
+      "Processor: Intel Core i7-1185G7",
+      "RAM: 16GB LPDDR4x",
+      "Storage: 512GB NVMe SSD",
+      "Display: 13.4-inch 4K UHD+",
+      "OS: Windows 11 Home"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "discount": "10% off"
+  },
+  {
+    "product_id": "LT002",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/spectre/Spectre-x360-14-ef2000-Front-Left-Nightfall-Black.png",
+    "category": "laptop",
+    "price": 1499.00,
+    "description": "Convertible laptop with 13.5-inch OLED display, Intel Core i7, 16GB RAM, and 1TB SSD.",
+    "specifications": [
+      "Processor: Intel Core i7-1255U",
+      "RAM: 16GB DDR4",
+      "Storage: 1TB SSD",
+      "Display: 13.5-inch OLED 3K2K",
+      "OS: Windows 11 Pro"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "warranty": "2 years"
+  },
+  {
+    "product_id": "LT003",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://www.lenovo.com/content/dam/lenovo/pcsd/global/en/products/thinkpad/x1-series/x1-carbon-gen-10/hero/ThinkPad_X1_Carbon_Gen_10_Hero_Front_Facing.png",
+    "category": "laptop",
+    "price": 1399.50,
+    "description": "Business-class laptop with 14-inch display, Intel Core i5, 16GB RAM, and 512GB SSD.",
+    "specifications": [
+      "Processor: Intel Core i5-1135G7",
+      "RAM: 16GB LPDDR4x",
+      "Storage: 512GB SSD",
+      "Display: 14-inch FHD+",
+      "OS: Windows 11 Pro"
+    ],
+    "availability": false,
+    "rating": 4.3,
+    "color": "Black"
+  },
+  {
+    "product_id": "MB001",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-config-20220606?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1654122882000",
+    "category": "macbook",
+    "price": 1199.00,
+    "description": "Lightweight MacBook with M2 chip, 13.6-inch Retina display, 8GB RAM, and 256GB SSD.",
+    "specifications": [
+      "Processor: Apple M2 Chip",
+      "RAM: 8GB Unified Memory",
+      "Storage: 256GB SSD",
+      "Display: 13.6-inch Retina",
+      "OS: macOS Ventura"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "color": "Midnight"
+  },
+  {
+    "product_id": "MB002",
+    "product_title": "MacBook Pro 14 M1 Pro",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202110?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1632788571000",
+    "category": "macbook",
+    "price": 1999.99,
+    "description": "Powerful MacBook Pro with M1 Pro chip, 14.2-inch Liquid Retina XDR display, 16GB RAM, and 1TB SSD.",
+    "specifications": [
+      "Processor: Apple M1 Pro",
+      "RAM: 16GB Unified Memory",
+      "Storage: 1TB SSD",
+      "Display: 14.2-inch Liquid Retina XDR",
+      "OS: macOS Monterey"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "ports": "3 Thunderbolt 4"
+  },
+  {
+    "product_id": "MB003",
+    "product_title": "MacBook Pro 16 M2 Max",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1670463779929",
+    "category": "macbook",
+    "price": 3499.00,
+    "description": "High-performance MacBook with M2 Max chip, 16.2-inch Retina display, 32GB RAM, and 1TB SSD.",
+    "specifications": [
+      "Processor: Apple M2 Max",
+      "RAM: 32GB Unified Memory",
+      "Storage: 1TB SSD",
+      "Display: 16.2-inch Liquid Retina XDR",
+      "OS: macOS Ventura"
+    ],
+    "availability": false,
+    "rating": 4.95,
+    "color": "Space Gray"
+  },
+  {
+    "product_id": "IP001",
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-2-202209_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663792793577",
+    "category": "iphone",
+    "price": 999.00,
+    "description": "Advanced iPhone with A16 Bionic chip, 6.1-inch Super Retina XDR display, and triple camera system.",
+    "specifications": [
+      "Processor: A16 Bionic",
+      "Storage: 256GB",
+      "Display: 6.1-inch Super Retina XDR",
+      "Camera: 48MP Main, 12MP Ultra Wide, 12MP Telephoto",
+      "OS: iOS 16"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "color": "Deep Purple"
+  },
+  {
+    "product_id": "IP002",
+    "product_title": "iPhone 13",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1629842709000",
+    "category": "iphone",
+    "price": 699.99,
+    "description": "Reliable iPhone with A15 Bionic chip, 6.1-inch Super Retina XDR display, and dual camera system.",
+    "specifications": [
+      "Processor: A15 Bionic",
+      "Storage: 128GB",
+      "Display: 6.1-inch Super Retina XDR",
+      "Camera: 12MP Wide, 12MP Ultra Wide",
+      "OS: iOS 16"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "color": "Pink"
+  },
+  {
+    "product_id": "IP003",
+    "product_title": "iPhone SE",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-midnight-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646411129379",
+    "category": "iphone",
+    "price": 429.00,
+    "description": "Compact iPhone with A15 Bionic chip, 4.7-inch Retina HD display, and single camera.",
+    "specifications": [
+      "Processor: A15 Bionic",
+      "Storage: 64GB",
+      "Display: 4.7-inch Retina HD",
+      "Camera: 12MP Wide",
+      "OS: iOS 16"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "color": "Midnight"
+  },
+  {
+    "product_id": "AC001",
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1660803972361",
+    "category": "accessories",
+    "price": 249.00,
+    "description": "Wireless earbuds with active noise cancellation, transparency mode, and MagSafe charging case.",
+    "specifications": [
+      "Chip: Apple H2",
+      "Battery: Up to 6 hours with ANC",
+      "Charging: MagSafe, Wireless, USB-C",
+      "Features: Active Noise Cancellation, Adaptive Transparency"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "color": "White"
+  },
+  {
+    "product_id": "AC002",
+    "product_title": "USB-C to Lightning Cable",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MX0K2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1598475639000",
+    "category": "accessories",
+    "price": 19.99,
+    "description": "1-meter USB-C to Lightning cable for charging and syncing Apple devices.",
+    "specifications": [
+      "Length: 1 meter",
+      "Connector: USB-C to Lightning",
+      "Compatibility: iPhone, iPad, AirPods"
+    ],
+    "availability": true,
+    "rating": 4.2,
+    "material": "Braided"
+  },
+  {
+    "product_id": "AC003",
+    "product_title": "MagSafe Charger",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MHXH3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1601494639000",
+    "category": "accessories",
+    "price": 39.00,
+    "description": "Wireless MagSafe charger for iPhone 12 and later models with magnetic alignment.",
+    "specifications": [
+      "Power: Up to 15W",
+      "Connector: USB-C",
+      "Compatibility: iPhone 12 and later"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "color": "White"
+  },
+  {
+    "product_id": "SW001",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MNP53?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1660716298249",
+    "category": "smartwatches",
+    "price": 399.00,
+    "description": "Advanced smartwatch with crash detection, temperature sensing, and 41mm Retina display.",
+    "specifications": [
+      "Chip: S8 SiP",
+      "Display: 41mm Always-On Retina",
+      "Sensors: Temperature, Blood Oxygen, ECG",
+      "Battery: Up to 18 hours",
+      "OS: watchOS 9"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "color": "Starlight"
+  },
+  {
+    "product_id": "SW002",
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/au/2208/gallery/au-galaxy-watch5-r900-429142-sm-r900nzkaxsa-533285054?$650_519_PNG$",
+    "category": "smartwatches",
+    "price": 349.99,
+    "description": "Smartwatch with 40mm AMOLED display, body composition analysis, and long battery life.",
+    "specifications": [
+      "Processor: Exynos W920",
+      "Display: 40mm AMOLED",
+      "Sensors: Heart Rate, SpO2, BIA",
+      "Battery: Up to 40 hours",
+      "OS: Wear OS"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "color": "Graphite"
+  },
+  {
+    "product_id": "SW003",
+    "product_title": "Fitbit Versa 4",
+    "product_image": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/versa-4/hero-static/black-3qrt.png",
+    "category": "smartwatches",
+    "price": 229.95,
+    "description": "Fitness-focused smartwatch with 40mm AMOLED display, GPS, and 6-day battery life.",
+    "specifications": [
+      "Display: 40mm AMOLED",
+      "Sensors: Heart Rate, SpO2, GPS",
+      "Battery: Up to 6 days",
+      "OS: Fitbit OS",
+      "Water Resistance: 50m"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "color": "Black"
+  },
+  {
+    "product_id": "PH001",
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/au/2302/gallery/au-galaxy-s23-s911-sm-s911bzebats-534773295?$650_519_PNG$",
+    "category": "phones",
+    "price": 849.00,
+    "description": "Flagship phone with Snapdragon 8 Gen 2, 6.1-inch AMOLED display, and triple camera system.",
+    "specifications": [
+      "Processor: Snapdragon 8 Gen 2",
+      "Storage: 128GB",
+      "Display: 6.1-inch Dynamic AMOLED 2X",
+      "Camera: 50MP Main, 12MP Ultra Wide, 10MP Telephoto",
+      "OS: Android 13"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "color": "Phantom Black"
+  },
+  {
+    "product_id": "PH002",
+    "product_title": "Google Pixel 7",
+    "product_image": "https://store.google.com/product/images/pixel_7_lemongrass_color?hl=en-US",
+    "category": "phones",
+    "price": 599.00,
+    "description": "AI-powered phone with Tensor G2 chip, 6.3-inch OLED display, and dual camera system.",
+    "specifications": [
+      "Processor: Google Tensor G2",
+      "Storage: 128GB",
+      "Display: 6.3-inch OLED",
+      "Camera: 50MP Main, 12MP Ultra Wide",
+      "OS: Android 13"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "color": "Lemongrass"
+  },
+  {
+    "product_id": "PH003",
+    "product_title": "OnePlus 11",
+    "product_image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus11/specs/Black_11.png",
+    "category": "phones",
+    "price": 699.99,
+    "description": "High-performance phone with Snapdragon 8 Gen 2, 6.7-inch AMOLED, and 100W fast charging.",
+    "specifications": [
+      "Processor: Snapdragon 8 Gen 2",
+      "Storage: 256GB",
+      "Display: 6.7-inch AMOLED",
+      "Camera: 50MP Main, 48MP Ultra Wide, 32MP Telephoto",
+      "OS: Android 13"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "color": "Titan Black"
+  }
+]
