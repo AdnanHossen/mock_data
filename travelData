@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "title": "Mount Kilimanjaro Trek",
+    "description": "Climb Africa's highest peak with stunning views and diverse landscapes.",
+    "price": {
+      "original": 2500,
+      "discounted": 2200,
+      "currency": "USD"
+    },
+    "duration": 7,
+    "difficulty": 4,
+    "group_size": {
+      "min": 1,
+      "max": 8
+    },
+    "type": "Trekking",
+    "min_age": 16,
+    "itinerary": [
+      {"day": 1, "title": "Arrive in Moshi", "description": "Meet your guide and prepare for the trek."},
+      {"day": 2, "title": "Machame Route Day 1", "description": "Trek to Machame Camp."},
+      {"day": 3, "title": "Machame to Shira Camp", "description": "Ascend through moorland to Shira Camp."},
+      {"day": 4, "title": "Shira to Barranco Camp", "description": "Cross the Lava Tower and descend to Barranco."},
+      {"day": 5, "title": "Barranco to Barafu Camp", "description": "Climb the Barranco Wall to Barafu."},
+      {"day": 6, "title": "Summit Day", "description": "Reach Uhuru Peak and descend to Mweka Camp."},
+      {"day": 7, "title": "Final Descent", "description": "Descend to Mweka Gate and transfer to hotel."}
+    ],
+    "included": [
+      "Certified guide services",
+      "National park fees and climbing permits",
+      "Roundtrip transportation from Moshi to trailhead",
+      "Accommodation in tents on the mountain",
+      "All meals during the trek (breakfast, lunch, dinner)",
+      "Porter services for luggage",
+      "Sleeping bags and sleeping mats",
+      "First aid kit and medical support",
+      "Emergency oxygen supply"
+    ],
+    "excluded": [
+      "International flights to Tanzania",
+      "Travel insurance",
+      "Personal hiking gear (boots, clothing, etc.)",
+      "Tips for guides and porters",
+      "Additional activities outside the itinerary",
+      "Alcoholic beverages",
+      "Laundry services",
+      "Personal expenses (souvenirs, phone calls)"
+    ],
+    "complementaries": [
+      "Safari tour in Serengeti or Ngorongoro Crater",
+      "Cultural visit to a Maasai village",
+      "Acclimatization hike in Arusha",
+      "Gear rental service",
+      "Airport transfers to/from Kilimanjaro International Airport",
+      "Post-trek spa and massage in Moshi"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Africa"],
+    "location": "Tanzania",
+    "rating": 4.8,
+    "number_of_reviews": 500,
+    "is_best_seller": true,
+    "continent": "Africa"
+  },
+  {
+    "id": 2,
+    "title": "Table Mountain Hike",
+    "description": "Day hike to the top of Table Mountain with panoramic views of Cape Town.",
+    "price": {
+      "original": 100,
+      "discounted": 80,
+      "currency": "USD"
+    },
+    "duration": 1,
+    "difficulty": 2,
+    "group_size": {
+      "min": 1,
+      "max": 10
+    },
+    "type": "Hiking",
+    "min_age": 10,
+    "itinerary": [
+      {"day": 1, "title": "Hike to Table Mountain", "description": "Ascend via Platteklip Gorge and descend via Cable Car."}
+    ],
+    "included": [
+      "Professional guide services",
+      "Roundtrip transportation from Cape Town",
+      "Cable car ticket for descent",
+      "Entrance fees to Table Mountain National Park"
+    ],
+    "excluded": [
+      "Meals and snacks",
+      "Personal items (sunscreen, hats, etc.)",
+      "Tips for the guide",
+      "Additional activities in Cape Town",
+      "Travel insurance"
+    ],
+    "complementaries": [
+      "Wine tour in Cape Winelands",
+      "Visit to Cape Point and Penguin Colony",
+      "Guided tour of Robben Island"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Urban", "Coastal"],
+    "location": "South Africa",
+    "rating": 4.5,
+    "number_of_reviews": 200,
+    "is_best_seller": false,
+    "continent": "Africa"
+  },
+  {
+    "id": 3,
+    "title": "Atlas Mountains Trek",
+    "description": "Explore the beautiful Atlas Mountains in Morocco, visiting Berber villages and stunning landscapes.",
+    "price": {
+      "original": 800,
+      "discounted": 700,
+      "currency": "USD"
+    },
+    "duration": 5,
+    "difficulty": 3,
+    "group_size": {
+      "min": 2,
+      "max": 10
+    },
+    "type": "Trekking",
+    "min_age": 12,
+    "itinerary": [
+      {"day": 1, "title": "Arrive dificultad en Marrakech", "description": "Transfer to Imlil."},
+      {"day": 2, "title": "Trek to Tacheddirt", "description": "Hike through valleys and forests."},
+      {"day": 3, "title": "Tacheddirt to Oukaimeden", "description": "Cross high passes with scenic views."},
+      {"day": 4, "title": "Oukaimeden to Imlil", "description": "Return through Berber villages."},
+      {"day": 5, "title": "Return to Marrakech", "description": "Transfer back to the city."}
+    ],
+    "included": [
+      "Certified guide services",
+      "Accommodation in guesthouses and tents",
+      "All meals during the trek",
+      "Mule support for luggage",
+      "Transportation from Marrakech to Imlil",
+      "First aid kit"
+    ],
+    "excluded": [
+      "International flights",
+      "Travel insurance",
+      "Personal items",
+      "Tips for guides and muleteers",
+      "Additional activities in Marrakech",
+      "Alcoholic beverages",
+      "Personal expenses"
+    ],
+    "complementaries": [
+      "Desert tour in the Sahara",
+      "Guided tour of Marrakech souks",
+      "Cooking class for Moroccan cuisine"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Cultural"],
+    "location": "Morocco",
+    "rating": 4.6,
+    "number_of_reviews": 300,
+    "is_best_seller": false,
+    "continent": "Africa"
+  },
+  {
+    "id": 4,
+    "title": "Mount Everest Base Camp Trek",
+    "description": "Trek to the base of the world's highest mountain through the stunning Himalayas.",
+    "price": {
+      "original": 1800,
+      "discounted": 1600,
+      "currency": "USD"
+    },
+    "duration": 12,
+    "difficulty": 4,
+    "group_size": {
+      "min": 2,
+      "max": 10
+    },
+    "type": "Trekking",
+    "min_age": 18,
+    "itinerary": [
+      {"day": 1, "title": "Arrive in Kathmandu", "description": "Prepare for the trek."},
+      {"day": 2, "title": "Fly to Lukla", "description": "Begin trek to Phakding."},
+      {"day": 3, "title": "Phakding to Namche Bazaar", "description": "Ascend to the Sherpa capital."},
+      {"day": 4, "title": "Acclimatization Day", "description": "Rest and explore Namche."},
+      {"day": 5, "title": "Namche to Tengboche", "description": "Visit Tengboche Monastery."},
+      {"day": 6, "title": "Tengboche to Dingboche", "description": "Trek through alpine meadows."},
+      {"day": 7, "title": "Acclimatization in Dingboche", "description": "Hike to Nagarjun Hill."},
+      {"day": 8, "title": "Dingboche to Lobuche", "description": "Approach the Khumbu Glacier."},
+      {"day": 9, "title": "Lobuche to Everest Base Camp", "description": "Reach Base Camp via Gorak Shep."},
+      {"day": 10, "title": "Hike to Kala Patthar", "description": "Enjoy views of Everest and descend."},
+      {"day": 11, "title": "Descend to Namche", "description": "Return trek to Namche Bazaar."},
+      {"day": 12, "title": "Namche to Lukla", "description": "Final trek and fly back to Kathmandu."}
+    ],
+    "included": [
+      "Certified guide services",
+      "Permits for Sagarmatha National Park",
+      "Domestic flights to/from Lukla",
+      "Accommodation in teahouses",
+      "All meals during the trek",
+      "Porter services",
+      "First aid kit",
+      "Emergency evacuation support"
+    ],
+    "excluded": [
+      "International flights",
+      "Travel insurance",
+      "Personal items",
+      "Tips for guides and porters",
+      "Additional activities in Kathmandu",
+      "Alcoholic beverages",
+      "Personal expenses"
+    ],
+    "complementaries": [
+      "Helicopter tour over the Himalayas",
+      "Cultural tour in Bhaktapur or Patan",
+      "Visit to Boudhanath Stupa"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Asia"],
+    "location": "Nepal",
+    "rating": 4.8,
+    "number_of_reviews": 1000,
+    "is_best_seller": true,
+    "continent": "Asia"
+  },
+  {
+    "id": 5,
+    "title": "Mount Fuji Hike",
+    "description": "Ascend Japan's iconic Mount Fuji for breathtaking sunrise views.",
+    "price": {
+      "original": 200,
+      "discounted": 180,
+      "currency": "USD"
+    },
+    "duration": 2,
+    "difficulty": 3,
+    "group_size": {
+      "min": 1,
+      "max": 5
+    },
+    "type": "Hiking",
+    "min_age": 12,
+    "itinerary": [
+      {"day": 1, "title": "Arrive at Fuji Base", "description": "Begin ascent to 8th station."},
+      {"day": 2, "title": "Summit and Descent", "description": "Reach summit for sunrise and descend."}
+    ],
+    "included": [
+      "Professional guide services",
+      "Transportation to the trailhead",
+      "Accommodation in mountain huts",
+      "Entrance fees to Mount Fuji"
+    ],
+    "excluded": [
+      "Meals",
+      "Personal items",
+      "Tips for the guide",
+      "Additional activities in Tokyo",
+      "Travel insurance"
+    ],
+    "complementaries": [
+      "Visit to Hakone hot springs",
+      "Cruise on Lake Ashi",
+      "Cultural tour in Kyoto"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Asia"],
+    "location": "Japan",
+    "rating": 4.7,
+    "number_of_reviews": 500,
+    "is_best_seller": false,
+    "continent": "Asia"
+  },
+  {
+    "id": 6,
+    "title": "Great Wall of China Hike",
+    "description": "Walk along the historic Great Wall of China with scenic mountain views.",
+    "price": {
+      "original": 400,
+      "discounted": 350,
+      "currency": "USD"
+    },
+    "duration": 3,
+    "difficulty": 2,
+    "group_size": {
+      "min": 1,
+      "max": 10
+    },
+    "type": "Hiking",
+    "min_age": 10,
+    "itinerary": [
+      {"day": 1, "title": "Arrive in Beijing", "description": "Transfer to Mutianyu section."},
+      {"day": 2, "title": "Hike Mutianyu to Jiankou", "description": "Explore restored and wild sections."},
+      {"day": 3, "title": "Hike Jinshanling", "description": "Walk and return to Beijing."}
+    ],
+    "included": [
+      "Professional guide services",
+      "Transportation from Beijing",
+      "Entrance fees to Great Wall sections",
+      "Some meals (lunch during hikes)"
+    ],
+    "excluded": [
+      "International flights",
+      "Travel insurance",
+      "Personal items",
+      "Tips for the guide",
+      "Additional activities in Beijing",
+      "Alcoholic beverages",
+      "Personal expenses"
+    ],
+    "complementaries": [
+      "Visit to the Forbidden City",
+      "Tour of the Temple of Heaven",
+      "Peking duck dining experience"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Historical", "Mountains", "Asia"],
+    "location": "China",
+    "rating": 4.6,
+    "number_of_reviews": 300,
+    "is_best_seller": false,
+    "continent": "Asia"
+  },
+  {
+    "id": 7,
+    "title": "Tour du Mont Blanc",
+    "description": "Circumnavigate Mont Blanc through France, Italy, and Switzerland on this alpine trek.",
+    "price": {
+      "original": 1500,
+      "discounted": 1300,
+      "currency": "USD"
+    },
+    "duration": 10,
+    "difficulty": 4,
+    "group_size": {
+      "min": 1,
+      "max": 8
+    },
+    "type": "Trekking",
+    "min_age": 16,
+    "itinerary": [
+      {"day": 1, "title": "Start in Chamonix", "description": "Begin trek to Les Houches."},
+      {"day": 2, "title": "Les Houches to Les Contamines", "description": "Cross Col de Voza."},
+      {"day": 3, "title": "Les Contamines to Refuge des Mottets", "description": "Enter Italy via Col de la Seigne."},
+      {"day": 4, "title": "Refuge des Mottets to Courmayeur", "description": "Descend to Courmayeur."},
+      {"day": 5, "title": "Courmayeur to Refuge Elena", "description": "Trek through Val Ferret."},
+      {"day": 6, "title": "Refuge Elena to Champex", "description": "Enter Switzerland."},
+      {"day": 7, "title": "Champex to Trient", "description": "Hike through alpine meadows."},
+      {"day": 8, "title": "Trient to Argentière", "description": "Cross Col de Balme."},
+      {"day": 9, "title": "Argentière to La Flégère", "description": "Enjoy views of Mont Blanc."},
+      {"day": 10, "title": "La Flégère to Chamonix", "description": "Complete the circuit."}
+    ],
+    "included": [
+      "Certified guide services",
+      "Accommodation in hotels and mountain huts",
+      "Breakfast and some lunches/dinners",
+      "Luggage transfer between accommodations",
+      "Maps and route information",
+      "First aid kit"
+    ],
+    "excluded": [
+      "Transportation to Chamonix",
+      "Travel insurance",
+      "Personal items",
+      "Tips for guides",
+      "Additional meals and drinks",
+      "Entrance fees to attractions",
+      "Personal expenses"
+    ],
+    "complementaries": [
+      "Extension to other Alpine hikes",
+      "Cultural tour in Chamonix",
+      "Wine tasting in Courmayeur",
+      "Spa day in Chamonix",
+      "Guided glacier walk"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Alps", "Europe"],
+    "location": "France/Italy/Switzerland",
+    "rating": 4.7,
+    "number_of_reviews": 400,
+    "is_best_seller": true,
+    "continent": "Europe"
+  },
+  {
+    "id": 8,
+    "title": "Camino de Santiago",
+    "description": "Walk the famous pilgrimage route through Spain's cultural and natural landscapes.",
+    "price": {
+      "original": 1000,
+      "discounted": 900,
+      "currency": "USD"
+    },
+    "duration": 7,
+    "difficulty": 2,
+    "group_size": {
+      "min": 1,
+      "max": 10
+    },
+    "type": "Hiking",
+    "min_age": 12,
+    "itinerary": [
+      {"day": 1, "title": "Start in Sarria", "description": "Begin the Camino Frances."},
+      {"day": 2, "title": "Sarria to Portomarín", "description": "Walk through Galician countryside."},
+      {"day": 3, "title": "Portomarín to Palas de Rei", "description": "Pass forests and villages."},
+      {"day": 4, "title": "Palas de Rei to Arzúa", "description": "Continue through rolling hills."},
+      {"day": 5, "title": "Arzúa to O Pedrouzo", "description": "Approach Santiago."},
+      {"day": 6, "title": "O Pedrouzo to Santiago", "description": "Arrive at the cathedral."},
+      {"day": 7, "title": "Explore Santiago", "description": "Visit the city and depart."}
+    ],
+    "included": [
+      "Professional guide services",
+      "Accommodation in guesthouses",
+      "Pilgrim passport",
+      "Breakfast daily",
+      "Luggage transfer between stops"
+    ],
+    "excluded": [
+      "International flights",
+      "Travel insurance",
+      "Personal items",
+      "Tips for guides",
+      "Additional meals and drinks",
+      "Personal expenses"
+    ],
+    "complementaries": [
+      "Visit to Santiago de Compostela cathedral",
+      "Seafood dinner in Galicia",
+      "Wine tasting in Ribeira Sacra"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Historical", "Cultural", "Forests", "Europe"],
+    "location": "Spain",
+    "rating": 4.6,
+    "number_of_reviews": 800,
+    "is_best_seller": false,
+    "continent": "Europe"
+  },
+  {
+    "id": 9,
+    "title": "Dolomites Trek",
+    "description": "Explore Italy's stunning Dolomite mountains with their dramatic peaks and valleys.",
+    "price": {
+      "original": 1200,
+      "discounted": 1000,
+      "currency": "USD"
+    },
+    "duration": 7,
+    "difficulty": 3,
+    "group_size": {
+      "min": 1,
+      "max": 6
+    },
+    "type": "Trekking",
+    "min_age": 14,
+    "itinerary": [
+      {"day": 1, "title": "Arrive in Cortina", "description": "Prepare for the trek."},
+      {"day": 2, "title": "Trek to Tre Cime", "description": "Hike to the iconic Three Peaks."},
+      {"day": 3, "title": "Tre Cime to Lago di Braies", "description": "Visit the Emerald Lake."},
+      {"day": 4, "title": "Lago di Braies to Alpe di Siusi", "description": "Explore alpine meadows."},
+      {"day": 5, "title": "Alpe di Siusi to Val Gardena", "description": "Trek through scenic valleys."},
+      {"day": 6, "title": "Val Gardena to Cortina", "description": "Complete the circuit."},
+      {"day": 7, "title": "Depart Cortina", "description": "Transfer to airport."}
+    ],
+    "included": [
+      "Certified guide services",
+      "Accommodation in hotels and refuges",
+      "Breakfast and some dinners",
+      "Transportation to trailhead",
+      "First aid kit"
+    ],
+    "excluded": [
+      "International flights",
+      "Travel insurance",
+      "Personal items",
+      "Tips for guides",
+      "Additional meals and drinks",
+      "Personal expenses"
+    ],
+    "complementaries": [
+      "Day trip to Venice",
+      "Wine tasting in Trentino",
+      "Via Ferrata experience"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Alps", "Europe"],
+    "location": "Italy",
+    "rating": 4.8,
+    "number_of_reviews": 350,
+    "is_best_seller": false,
+    "continent": "Europe"
+  },
+  {
+    "id": 10,
+    "title": "West Highland Way",
+    "description": "Hike through Scotland's rugged highlands and coastal paths on this iconic trail.",
+    "price": {
+      "original": 600,
+      "discounted": 500,
+      "currency": "USD"
+    },
+    "duration": 5,
+    "difficulty": 3,
+    "group_size": {
+      "min": 1,
+      "max": 6
+    },
+    "type": "Hiking",
+    "min_age": 12,
+    "itinerary": [
+      {"day": 1, "title": "Start in Milngavie", "description": "Begin trek to Drymen."},
+      {"day": 2, "title": "Drymen to Balmaha", "description": "Walk along Loch Lomond."},
+      {"day": 3, "title": "Balmaha to Inverarnan", "description": "Continue along the loch."},
+      {"day": 4, "title": "Inverarnan to Bridge of Orchy", "description": "Trek through highlands."},
+      {"day": 5, "title": "Bridge of Orchy to Fort William", "description": "Reach Ben Nevis."}
+    ],
+    "included": [
+      "Professional guide services",
+      "Accommodation in guesthouses",
+      "Breakfast daily",
+      "Luggage transfer between stops"
+    ],
+    "excluded": [
+      "Transportation to Milngavie",
+      "Travel insurance",
+      "Personal items",
+      "Tips for guides",
+      "Additional meals and drinks",
+      "Personal expenses"
+    ],
+    "complementaries": [
+      "Visit to Edinburgh Castle",
+      "Whisky tasting tour",
+      "Loch Ness boat tour"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Coastal", "Europe"],
+    "location": "Scotland",
+    "rating": 4.5,
+    "number_of_reviews": 250,
+    "is_best_seller": true,
+    "continent": "Europe"
+  },
+  {
+    "id": 11,
+    "title": "Appalachian Trail Section Hike",
+    "description": "Experience a section of the famous Appalachian Trail through North America's forests and mountains.",
+    "price": {
+      "original": 500,
+      "discounted": 450,
+      "currency": "USD"
+    },
+    "duration": 7,
+    "difficulty": 3,
+    "group_size": {
+      "min": 1,
+      "max": 4
+    },
+    "type": "Hiking",
+    "min_age": 14,
+    "itinerary": [
+      {"day": 1, "title": "Start in Springer Mountain", "description": "Begin trek to Neels Gap."},
+      {"day": 2, "title": "Neels Gap to Tesnatee Gap", "description": "Hike through forests."},
+      {"day": 3, "title": "Tesnatee to Unicoi Gap", "description": "Cross mountain ridges."},
+      {"day": 4, "title": "Unicoi to Dicks Creek Gap", "description": "Continue through wilderness."},
+      {"day": 5, "title": "Dicks Creek to Bly Gap", "description": "Reach scenic viewpoints."},
+      {"day": 6, "title": "Bly Gap to Deep Gap", "description": "Trek through dense forests."},
+      {"day": 7, "title": "Deep Gap to Franklin", "description": "Complete section and transfer."}
+    ],
+    "included": [
+      "Certified guide services",
+      "Camping gear (tents, sleeping pads)",
+      "Some meals (trail snacks and dinners)",
+      "Transportation to trailhead",
+      "First aid kit"
+    ],
+    "excluded": [
+      "International flights",
+      "Travel insurance",
+      "Personal hiking gear",
+      "Tips for guides",
+      "Additional meals",
+      "Personal expenses"
+    ],
+    "complementaries": [
+      "Visit to Great Smoky Mountains National Park",
+      "Cultural tour in Asheville",
+      "Rafting on the Nantahala River"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Forests", "North America"],
+    "location": "USA",
+    "rating": 4.6,
+    "number_of_reviews": 100,
+    "is_best_seller": false,
+    "continent": "North America"
+  },
+  {
+    "id": 12,
+    "title": "Grand Canyon Rim Trail",
+    "description": "Hike along the rim of the Grand Canyon for breathtaking views of this natural wonder.",
+    "price": {
+      "original": 200,
+      "discounted": 180,
+      "currency": "USD"
+    },
+    "duration": 2,
+    "difficulty": 2,
+    "group_size": {
+      "min": 1,
+      "max": 10
+    },
+    "type": "Hiking",
+    "min_age": 10,
+    "itinerary": [
+      {"day": 1, "title": "South Rim Start", "description": "Hike from Mather Point to Bright Angel."},
+      {"day": 2, "title": "Bright Angel to Hermits Rest", "description": "Complete rim trail."}
+    ],
+    "included": [
+      "Professional guide services",
+      "National park entry fees",
+      "Transportation to trailhead",
+      "Some snacks during the hike"
+    ],
+    "excluded": [
+      "Accommodation",
+      "Meals",
+      "Personal items",
+      "Tips for guides",
+      "Travel insurance"
+    ],
+    "complementaries": [
+      "Helicopter tour over the Grand Canyon",
+      "Visit to Hoover Dam",
+      "Sunset photography tour"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Canyon", "Desert", "North America"],
+    "location": "USA",
+    "rating": 4.7,
+    "number_of_reviews": 400,
+    "is_best_seller": false,
+    "continent": "North America"
+  },
+  {
+    "id": 13,
+    "title": "Torres del Paine Trek",
+    "description": "Trek through Chile's stunning Patagonian wilderness with dramatic mountain views.",
+    "price": {
+      "original": 1200,
+      "discounted": 1000,
+      "currency": "USD"
+    },
+    "duration": 7,
+    "difficulty": 4,
+    "group_size": {
+      "min": 1,
+      "max": 8
+    },
+    "type": "Trekking",
+    "min_age": 16,
+    "itinerary": [
+      {"day": 1, "title": "Arrive in Puerto Natales", "description": "Prepare for trek."},
+      {"day": 2, "title": "Trek to Las Torres", "description": "Hike to the base of the towers."},
+      {"day": 3, "title": "Las Torres to Los Cuernos", "description": "Walk along Lake Nordenskjöld."},
+      {"day": 4, "title": "Los Cuernos to Paine Grande", "description": "Trek to French Valley."},
+      {"day": 5, "title": "Paine Grande to Grey Glacier", "description": "View the glacier."},
+      {"day": 6, "title": "Grey Glacier to Paine Grande", "description": "Return trek."},
+      {"day": 7, "title": "Return to Puerto Natales", "description": "Complete trek and depart."}
+    ],
+    "included": [
+      "Certified guide services",
+      "Camping gear (tents, sleeping bags)",
+      "All meals during the trek",
+      "Transportation to/from park",
+      "Park entry fees"
+    ],
+    "excluded": [
+      "International flights",
+      "Travel insurance",
+      "Personal items",
+      "Tips for guides",
+      "Additional activities in Puerto Natales"
+    ],
+    "complementaries": [
+      "Boat tour to Balmaceda Glacier",
+      "Visit to Punta Arenas",
+      "Horseback riding in Patagonia"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Patagonia", "South America"],
+    "location": "Chile",
+    "rating": 4.9,
+    "number_of_reviews": 300,
+    "is_best_seller": true,
+    "continent": "South America"
+  },
+  {
+    "id": 14,
+    "title": "Machu Picchu Trek",
+    "description": "Hike the Inca Trail to reach the ancient ruins of Machu Picchu in Peru.",
+    "price": {
+      "original": 1000,
+      "discounted": 900,
+      "currency": "USD"
+    },
+    "duration": 4,
+    "difficulty": 3,
+    "group_size": {
+      "min": 1,
+      "max": 8
+    },
+    "type": "Trekking",
+    "min_age": 14,
+    "itinerary": [
+      {"day": 1, "title": "Start in Cusco", "description": "Transfer to Km 82 and begin trek."},
+      {"day": 2, "title": "Trek to Wayllabamba", "description": "Hike through Andean valleys."},
+      {"day": 3, "title": "Wayllabamba to Wiñay Wayna", "description": "Cross Dead Woman’s Pass."},
+      {"day": 4, "title": "Wiñay Wayna to Machu Picchu", "description": "Reach Machu Picchu via Sun Gate."}
+    ],
+    "included": [
+      "Certified guide services",
+      "Inca Trail permits",
+      "Camping gear (tents, sleeping pads)",
+      "All meals during the trek",
+      "Transportation to trailhead"
+    ],
+    "excluded": [
+      "International flights",
+      "Travel insurance",
+      "Personal items",
+      "Tips for guides",
+      "Additional activities in Cusco"
+    ],
+    "complementaries": [
+      "Tour of the Sacred Valley",
+      "Visit to Cusco’s historic sites",
+      "Peruvian cooking class"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Historical", "Mountains", "South America"],
+    "location": "Peru",
+    "rating": 4.8,
+    "number_of_reviews": 600,
+    "is_best_seller": false,
+    "continent": "South America"
+  },
+  {
+    "id": 15,
+    "title": "Blue Mountains Three Sisters Hike",
+    "description": "Explore Australia’s Blue Mountains with a hike to the iconic Three Sisters rock formation.",
+    "price": {
+      "original": 150,
+      "discounted": 120,
+      "currency": "USD"
+    },
+    "duration": 1,
+    "difficulty": 2,
+    "group_size": {
+      "min": 1,
+      "max": 12
+    },
+    "type": "Hiking",
+    "min_age": 10,
+    "itinerary": [
+      {"day": 1, "title": "Hike to Three Sisters", "description": "Trek from Katoomba to Three Sisters and Echo Point."}
+    ],
+    "included": [
+      "Professional guide services",
+      "Transportation from Sydney",
+      "National park entry fees",
+      "Some snacks"
+    ],
+    "excluded": [
+      "Meals",
+      "Personal items",
+      "Tips for guides",
+      "Travel insurance"
+    ],
+    "complementaries": [
+      "Scenic cableway ride",
+      "Visit to Featherdale Wildlife Park",
+      "Blue Mountains sunset tour"
+    ],
+    "images": ["[invalid url, do not cite]"],
+    "category": ["Mountains", "Forests", "Australia"],
+    "location": "Australia",
+    "rating": 4.5,
+    "number_of_reviews": 250,
+    "is_best_seller": false,
+    "continent": "Australia"
+  }
+]
